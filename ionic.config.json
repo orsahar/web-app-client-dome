@@ -1,0 +1,8 @@
+{
+  "name": "Hackend-mobile-app-example",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
